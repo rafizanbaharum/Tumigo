@@ -1,0 +1,2 @@
+http://blog.grafixartist.com/android-launch-screen-splash-screen/
+https://androidbycode.wordpress.com/2015/02/14/goodbye-launcher-drawables-hello-mipmaps/
